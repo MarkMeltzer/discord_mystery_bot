@@ -1,0 +1,14 @@
+#  Replace [INSERT TOKEN HERE] with your discord bot token
+TOKEN = [INSERT TOKEN HERE]
+
+#  Replace [INSERT MAIN CHANNEL HERE] with the text channel through which the bot should communicate
+#  note: the name is case-sensitive
+MAIN_TEXTCHANNEL_NAME = [INSERT MAIN CHANNEL HERE]
+
+#  Replace [INSERT PARTY VOICE CHANNEL HERE] with the voice channel in which all party members
+#  should be when a new party is set
+PARTY_VOICECHANNEL_NAME = [INSERT PARTY VOICE CHANNEL HERE]
+
+#  Replace [INSERT SERVER NAME HERE] with the name of the server on which the bot should operate
+#  note: the name is case-sensitive
+SERVER_NAME = [INSERT SERVER NAME HERE]
