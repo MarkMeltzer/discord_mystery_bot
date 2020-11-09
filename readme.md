@@ -4,7 +4,7 @@ This is a small python based discord bot for use in a discord murder mystery gam
 Currently the bot supports setting a party of players and moving these players around voice channels.
 
 # Requirements
-- python 3.6 or higher
+- python 3.6 or higher (tested working with 3.6.5)
     - Can be downloaded at: https://www.python.org/downloads/
 - discord bot token
     - Can be requested at: https://discord.com/developers/applications
